@@ -1,6 +1,5 @@
 body, .App {
     height: 100vh;
     display: grid;
-    background: #000;
+    background: rgb(236, 227, 227);
 }
-iframe { margin: auto; }
